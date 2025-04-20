@@ -13,7 +13,7 @@ body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-  background: url("footlball.jpg") no-repeat center center/cover;
+  background: url("https://img.freepik.com/free-photo/rugby-sport-environment-filed_23-2151891713.jpg?t=st=1745187656~exp=1745191256~hmac=1d8e72b9a579db8a0d071c3350c9a7d34e7c5be6dcf2d04bb7ff735a8200fa23&w=900") no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
