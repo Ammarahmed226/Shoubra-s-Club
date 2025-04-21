@@ -13,7 +13,7 @@ body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-  background: url("https://img.freepik.com/free-photo/rugby-sport-environment-filed_23-2151891713.jpg?t=st=1745187656~exp=1745191256~hmac=1d8e72b9a579db8a0d071c3350c9a7d34e7c5be6dcf2d04bb7ff735a8200fa23&w=900") no-repeat center center/cover;
+  background: url(footlball.jpg) no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -131,7 +131,16 @@ body {
     border: none;
     background-color: transparent;
     margin-left: 8px;
+    font-size: 2rem;
+    color: #fff;
+    transition: transform 0.2s ease, color 0.3s ease;
   }
+    
+    .social-icons .icon:hover {
+      color: rgb(106, 206, 122);
+      transform: scale(1.1);
+    }
+    
   
   .social-icons .icon svg {
     height: 1.25rem;
